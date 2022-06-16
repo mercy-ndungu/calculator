@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assesment</string>
+    <string name="numberIsRequired">Number is required</string>
+    <string name="number_is_required">Number is required</string>
+    <string name="number_required">Number is required</string>
+    <string name="numbers_is_required">Number is required</string>
+</resources>
